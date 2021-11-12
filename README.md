@@ -533,6 +533,4 @@ class FBLogin implements ISocialLogin {
 var fBLogin = new FBLogin();
 console.log('DIP3-Good:', fBLogin.login('Login Facebook'));
 
-![image](https://user-images.githubusercontent.com/94152065/141398470-97e11d26-dc7c-45fe-8ade-48b423dd4bca.png)
-
 
