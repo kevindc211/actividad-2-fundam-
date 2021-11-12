@@ -1,5 +1,5 @@
 # actividad-2-fundamentos 
-
+KEVIN DAVID CASALLAS INGENERIA DE SOFTWARE 
 
 ___
 
@@ -18,8 +18,9 @@ Estos principios, cuando se combinan, facilitan que un programador desarrolle so
 
 A continuación se ilustraran los principios, por medio de codificación y pruebas de su correcto funcionamiento. Las cuales serán evidenciadas en la consola del buscador donde se encuentro visualizándose el archivo index.html:
 
-![SRP](./assets/img/imageGeneral.png)
-***Fuente:** original*
+![image](https://user-images.githubusercontent.com/94152065/141397849-2b5bd8e1-ed1f-4d01-8d26-283165180d26.png)
+
+
 
 #### Principio de responsabilidad única (SRP)
 
@@ -152,8 +153,9 @@ console.log('SRP12-Good:', printerGood.printPageInXML('Imprime pagina actual en 
 
 *Pruebas de su funcionamiento*
 
-![SRP](./assets/img/SRP.png)
-***Fuente:** original*
+![image](https://user-images.githubusercontent.com/94152065/141397877-c269b875-50e3-4716-88ac-8f2ffe3210f3.png)
+
+*** Fuente: ** original *
 
 
 ___
@@ -277,8 +279,9 @@ console.log('OCP6-Good:', bookGoodOCP2);
 
 *Pruebas de su funcionamiento*
 
-![OCP](./assets/img/OCP.png)
-***Fuente:** original*
+![image](https://user-images.githubusercontent.com/94152065/141397935-73eead1b-c039-4f3c-aeea-d00efe866919.png)
+
+*** Fuente: ** original *
 
 
 ___
@@ -363,8 +366,9 @@ eagleGood.flyGood();
 
 *Pruebas de su funcionamiento*
 
-![LSP](./assets/img/LSP.png)
-***Fuente:** original*
+![image](https://user-images.githubusercontent.com/94152065/141397964-88dd27df-841f-489b-86fc-81b53ce2f6f7.png)
+
+*** Fuente: ** original *
 
 
 ___
@@ -459,8 +463,9 @@ console.log('ISP6-Good:', eageleISP2.fly());
 
 *Pruebas de su funcionamiento*
 
-![ISP](./assets/img/ISP.png)
-***Fuente:** original*
+![image](https://user-images.githubusercontent.com/94152065/141398342-637ea8aa-1e04-42b7-8655-d87306c29fd6.png)
+
+*** Fuente: ** original *
 
 
 ___
@@ -527,4 +532,11 @@ class FBLogin implements ISocialLogin {
 /** Instancia del objeto en una variable e impresión en consola */
 var fBLogin = new FBLogin();
 console.log('DIP3-Good:', fBLogin.login('Login Facebook'));
+
+![image](https://user-images.githubusercontent.com/94152065/141398470-97e11d26-dc7c-45fe-8ade-48b423dd4bca.png)
+
+* REFERENCIAS *
+
+![Uploading image.png…]()
+
 
