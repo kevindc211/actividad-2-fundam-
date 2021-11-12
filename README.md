@@ -1,4 +1,5 @@
-# actividad-2-fundam-![portada](./assets/img/portada.png)
+# actividad-2-fundamentos 
+
 
 ___
 
@@ -527,20 +528,3 @@ class FBLogin implements ISocialLogin {
 var fBLogin = new FBLogin();
 console.log('DIP3-Good:', fBLogin.login('Login Facebook'));
 
-~~~
-
-*Pruebas de su funcionamiento*
-
-![DIP](./assets/img/DIP.png)
-***Fuente:** original*
-
-
-___
-
-![portada](./assets/img/referencias.png)
-
-
-
-___
-
-![portada](./assets/img/autoría.png)
